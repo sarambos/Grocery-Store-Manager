@@ -14,7 +14,7 @@ A management system created using C++ in order to add, remove, and update inform
 
 # Description
 
-This program is meant to display a combination of the content learned during Algorithmic Problem solving as a final project. It uses a text-based interface in the terminal in order to navigate a simulated grocery store management system. You can do the following with this program:
+This program is meant to display a combination of the content learned during Algorithmic Problem Solving as a final project. It uses a text-based interface in the terminal in order to navigate a simulated grocery store management system. You can do the following with this program:
 
 Add a product
 Remove a product
@@ -29,8 +29,10 @@ Getting Started
 # Dependencies
 
 Windows or Mac will be fine
+
 Make sure you download the respective compiler: https://code.visualstudio.com/docs/languages/cpp
-Help
+
+# Help
 
 If you're having trouble with compiling/running the program and getting an error, make sure that you're in the correct folder. Do this by doing the following command: cd
 
