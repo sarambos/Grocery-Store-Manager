@@ -27,7 +27,7 @@ Calculate the total profit of the products
 
 ## Getting Started
 
-### Dependencies
+### Dependencies:
 
 Windows or Mac will be fine
 
