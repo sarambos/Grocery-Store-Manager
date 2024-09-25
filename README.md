@@ -2,11 +2,11 @@
 
 ## How to compile:
 
-g++ project2.cpp -o project2
+g++ grocery.cpp -o grocery
 
 ## How to run:
 
-./ project2
+./ grocery
 
 # Grocery Store Management System
 
